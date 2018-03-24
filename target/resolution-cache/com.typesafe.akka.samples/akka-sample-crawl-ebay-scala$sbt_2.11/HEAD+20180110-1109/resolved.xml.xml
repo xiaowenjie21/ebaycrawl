@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
+	<info organisation="com.typesafe.akka.samples"
+		module="akka-sample-crawl-ebay-scala$sbt_2.11"
+		revision="HEAD+20180110-1109"
+		status="integration"
+		publication="20180110110950"
+	/>
+	<configurations>
+		<conf name="default" visibility="public"/>
+	</configurations>
+	<publications>
+	</publications>
+	<dependencies>
+		<dependency org="org.scala-sbt" name="sbt" rev="0.13.11" conf="default->default(compile)"/>
+		<dependency org="com.typesafe.sbt" name="sbt-multi-jvm" rev="0.3.8" conf="default->default(compile)" scalaVersion="2.10" sbtVersion="0.13"/>
+		<dependency org="com.eed3si9n" name="sbt-assembly" rev="0.9.2" conf="default->default(compile)" scalaVersion="2.10" sbtVersion="0.13"/>
+		<dependency org="com.dwijnand" name="sbt-dynver" rev="1.1.1" conf="default->default(compile)" scalaVersion="2.10" sbtVersion="0.13"/>
+	</dependencies>
+</ivy-module>
