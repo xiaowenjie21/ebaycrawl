@@ -1,6 +1,0 @@
-[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
-[0m[[0mdebug[0m] [0m	(F:\tmp\EbayCrawlAkka20171226\EbayCrawlAkka\src\main\resources\application.conf,F:\tmp\EbayCrawlAkka20171226\EbayCrawlAkka\target\scala-2.11\classes\application.conf)[0m
-[0m[[0mdebug[0m] [0m	(F:\tmp\EbayCrawlAkka20171226\EbayCrawlAkka\src\main\resources\ebay.conf,F:\tmp\EbayCrawlAkka20171226\EbayCrawlAkka\target\scala-2.11\classes\ebay.conf)[0m
-[0m[[0mdebug[0m] [0m	(F:\tmp\EbayCrawlAkka20171226\EbayCrawlAkka\src\main\resources\factorial.conf,F:\tmp\EbayCrawlAkka20171226\EbayCrawlAkka\target\scala-2.11\classes\factorial.conf)[0m
-[0m[[0mdebug[0m] [0m	(F:\tmp\EbayCrawlAkka20171226\EbayCrawlAkka\src\main\resources\stats1.conf,F:\tmp\EbayCrawlAkka20171226\EbayCrawlAkka\target\scala-2.11\classes\stats1.conf)[0m
-[0m[[0mdebug[0m] [0m	(F:\tmp\EbayCrawlAkka20171226\EbayCrawlAkka\src\main\resources\stats2.conf,F:\tmp\EbayCrawlAkka20171226\EbayCrawlAkka\target\scala-2.11\classes\stats2.conf)[0m
