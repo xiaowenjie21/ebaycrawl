@@ -9,8 +9,7 @@
 
 ## web界面
 整合了一个web界面，使用了python3 aiohttp开发 展示抓取数据
-地址: http://139.159.212.35/keylist?shopname=%&sortby=news&start_time=2017-02-22&end_time=2018-03-24&keyword=iphone&from=all
-echart数据可视化: http://139.159.212.35/datavisual
+
 
 ## 运行方式
 sbt 'runMain sample.crawl.ebay.EbayCrawlBackend 2551' # 集群节点
